@@ -38,6 +38,7 @@
     <li>
       pwd--help
     </li>
+  
    man 매뉴얼 사용법
     <li>
       q키 - 나가기
