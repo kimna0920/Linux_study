@@ -58,3 +58,9 @@
   </div>
   </p>
   
+<h3>01 리눅스 명령어 기초</h3>
+<b>sudo (superuser do)</b>
+<p>현재 계정에서 root 권한을 이용하여 명령어를 실행할 때 사용</p>
+<li>
+  sudo -i/sudo -s - root 계정으로 전환가능
+</li>
