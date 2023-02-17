@@ -64,7 +64,7 @@
 <li>
   sudo -i/sudo -s - root 계정으로 전환가능
 </li>
-<b>GUI vs Cli</b>
+<b>GUI vs CLI</b>
 <li>
   GUI 윈도우 시스템, 아이콘, 메뉴, 포인팅 디바이스 등의 요소에 의해 구성되는 컴퓨터 조직 환경
 </li>
