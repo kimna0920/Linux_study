@@ -78,6 +78,13 @@
 <h3>IO Redirection</h3>
 <b>output</b>
 <li>
-  활용: <ul>ls -la > result.txt
-  ('>' 를 이용하면 모니터에 출력될 파일리스트를 result.txt라는 파일에 입력으로 넣을 수 있다)</ul>
+  활용: 
+  <ul>
+    ls -la > result.txt
+  ('>' 를 이용하면 모니터에 출력될 파일리스트를 result.txt라는 파일에 입력으로 넣을 수 있다)
+  </ul>
+  <ul>
+    rm result.txt 2> result2.txt
+    (rm result.txt 에 대한 오류메세지가 result2.txt에 담긴다)
+  </ul>
 </li>
