@@ -74,3 +74,10 @@
   CLI 가상 터미널 또는 터미널을 통해 사용자와 컴퓨터가 상호 작용하는 방식
   <b>[GUI가 할 수 있는 모든 작업은 CLI로 할 수 있다]</b>
 </li>
+
+<h3>IO Redirection</h3>
+<b>output</b>
+<li>
+  활용: <ul>ls -la > result.txt
+  ('>' 를 이용하면 모니터에 출력될 파일리스트를 result.txt라는 파일에 입력으로 넣을 수 있다)</ul>
+</li>
