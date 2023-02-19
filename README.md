@@ -75,7 +75,7 @@
   <b>[GUI가 할 수 있는 모든 작업은 CLI로 할 수 있다]</b>
 </li>
 
-<h3>IO Redirection</h3>
+<h3>04 IO Redirection</h3>
 <b>output</b>
 <li>
   활용: 
