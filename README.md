@@ -76,7 +76,39 @@
 </li>
 
 <h3>04 IO Redirection</h3>
-<b>output</b>
+<b>UNIX programs</b>
+<li>
+  <b>input:</b>
+  <ul>
+    program arguments(프로그램 인수)<br>
+    [제어 정보 control information]
+  </ul>
+  <ul>
+    environment variables(환경 변수)<br>
+    [상태 정보 state information]
+  </ul>
+  <ul>
+    standard input(표준 입력)<br>
+    [데이터 data]
+  </ul>
+</li>
+
+<li>
+  <b>output:</b>
+  <ul>
+    return status code(반환 상태 코드)<br>
+    [제어 정보 control information]
+  </ul>
+  <ul>
+    standard out(표준 출력)<br>
+    [데이터 data]
+  </ul>
+  <ul>
+    standard error(표준 에러)<br>
+    [에러 메세지 error messages]
+  </ul>
+</li>
+
 <li>
   활용: 
   <ul>
@@ -86,10 +118,4 @@
     (rm result.txt 에 대한 오류메세지가 result2.txt에 담긴다)
   </ul>
 </li>
-<b>input</b>
-<li>
-  활용:
-  <ul>
-    
-  </ul>
-</li>
+
