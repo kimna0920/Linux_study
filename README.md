@@ -112,9 +112,9 @@
 <li>
   활용: 
   <ul>
-    ls -la > result.txt<br>
+    <b>ls -la > result.txt</b><br>
     ['>' 를 이용하면 모니터에 출력될 파일리스트를 result.txt라는 파일에 입력으로 넣을 수 있다]<br>
-    rm result.txt 2> result2.txt<br>
+    <b>rm result.txt 2> result2.txt</b><br>
     [rm result.txt 에 대한 오류메세지가 result2.txt에 담긴다]
   </ul>
 </li>
@@ -122,15 +122,17 @@
 <li>
   활용:
   <ul>
-    ls -al >> result.txt<br>
+    <b>ls -al >> result.txt</b><br>
     (ls -al 실행결과가 result.txt에 담긴다)
     <br>
-    mail ((이메일주소입력)) <<eot
-    > i
+    <b>
+    mail ((이메일주소입력)) <<eot<br>
+    > i<br>
     > want to go home...<br>
-    (이메일에 다음 내용이 전송됨)
+    </b><br>
+    [이메일에 다음 내용이 전송됨]
     <br>
-    ls -al > /dev/null<br>
-    (실행결과가 /dev/null로 리다이렉션된다,즉 실행결과 삭제된다)
+    <b>ls -al > /dev/null</b><br>
+    [실행결과가 /dev/null로 리다이렉션된다,즉 실행결과 삭제된다]
   </ul>
 </li>
