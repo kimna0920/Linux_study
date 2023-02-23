@@ -120,5 +120,17 @@
 </li>
 <b>Append</b>
 <li>
-  
+  활용:
+  <ul>
+    ls -al >> result.txt
+    (ls -al 실행결과가 result.txt에 담긴다)
+    <br>
+    mail ((이메일주소입력)) <<eot
+    > i
+    > want to go home...
+    (이메일에 다음 내용이 전송됨)
+    <br>
+    ls -al > /dev/null
+    (실행결과가 /dev/null로 리다이렉션된다,즉 실행결과 삭제된다)
+  </ul>
 </li>
