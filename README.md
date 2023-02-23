@@ -118,4 +118,7 @@
     (rm result.txt 에 대한 오류메세지가 result2.txt에 담긴다)
   </ul>
 </li>
-
+<b>Append</b>
+<li>
+  
+</li>
