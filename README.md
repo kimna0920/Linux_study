@@ -126,10 +126,12 @@
     (ls -al 실행결과가 result.txt에 담긴다)
     <br>
     <b>
-    mail ((이메일주소입력)) <<eot<br>
+    <span>
+      mail ((이메일주소)) << eot
+    </span><br>
     > i<br>
     > want to go home...<br>
-    </b><br>
+    </b>
     [이메일에 다음 내용이 전송됨]
     <br>
     <b>ls -al > /dev/null</b><br>
