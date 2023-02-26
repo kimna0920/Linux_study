@@ -139,4 +139,9 @@
   </ul>
 </li>
 <h3>05 쉘과 커널</h3>
-<b><b>
+<b>bash vs zsh</b>
+<li>
+  <b>
+    bash
+  </b>
+</li>
