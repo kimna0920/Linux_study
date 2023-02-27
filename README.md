@@ -142,6 +142,7 @@
 <b>bash vs zsh</b>
 <li>
   <b>
-    bash
+    bash(Bourne-Again Shell)
   </b>
+  GNU 프로젝트의 일환으로 개발됨 리눅스의 기본 쉘
 </li>
